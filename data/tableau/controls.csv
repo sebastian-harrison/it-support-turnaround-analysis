@@ -1,0 +1,76 @@
+scope,metric,excel_value
+All priorities,case_count,24437
+All priorities,resolution_eligible,22900
+All priorities,resolution_coverage,0.9371035724516102
+All priorities,median_resolution_days,0.8972222222222223
+All priorities,p90_resolution_days,15.608611111111117
+All priorities,closure_eligible,24437
+All priorities,median_closure_days,6.064583333333333
+All priorities,p90_closure_days,22.0613888888889
+All priorities,paired_eligible,22900
+All priorities,paired_median_resolution_days,0.8972222222222223
+All priorities,paired_median_closure_days,6.233680555555555
+All priorities,median_post_resolution_days,5.022916666666666
+All priorities,p90_post_resolution_days,7.409027777777778
+All priorities,known_reassignments,24437
+All priorities,reassignment_coverage,1
+All priorities,reassigned_cases,11156
+All priorities,reassigned_rate,0.4565208495314482
+All priorities,reopened_cases,268
+All priorities,slow_cases,2290
+All priorities,slow_rate,0.1
+All priorities,slow_threshold_days,15.608611111111117
+All priorities,missing_resolution_count,1537
+All priorities,missing_resolution_median_closure_days,5.033333333333333
+All priorities,present_resolution_median_closure_days,6.233680555555555
+All priorities,latest_closure_serial,42781.625
+Moderate priority only,case_count,23251
+Moderate priority only,resolution_eligible,21804
+Moderate priority only,resolution_coverage,0.9377661175863403
+Moderate priority only,median_resolution_days,0.8923611111111112
+Moderate priority only,p90_resolution_days,15.32215277777778
+Moderate priority only,closure_eligible,23251
+Moderate priority only,median_closure_days,6.061111111111111
+Moderate priority only,p90_closure_days,22.04513888888889
+Moderate priority only,paired_eligible,21804
+Moderate priority only,paired_median_resolution_days,0.8923611111111112
+Moderate priority only,paired_median_closure_days,6.226041666666667
+Moderate priority only,median_post_resolution_days,5.022916666666666
+Moderate priority only,p90_post_resolution_days,7.387291666666667
+Moderate priority only,known_reassignments,23251
+Moderate priority only,reassignment_coverage,1
+Moderate priority only,reassigned_cases,10598
+Moderate priority only,reassigned_rate,0.4558083523289321
+Moderate priority only,reopened_cases,265
+Moderate priority only,slow_cases,2167
+Moderate priority only,slow_rate,0.0993854338653458
+Moderate priority only,slow_threshold_days,15.608611111111117
+Moderate priority only,missing_resolution_count,1447
+Moderate priority only,missing_resolution_median_closure_days,5.034027777777778
+Moderate priority only,present_resolution_median_closure_days,6.226041666666667
+Moderate priority only,latest_closure_serial,42781.625
+Category 42,case_count,3578
+Category 42,resolution_eligible,3159
+Category 42,resolution_coverage,0.8828954723309111
+Category 42,median_resolution_days,0.029166666666666667
+Category 42,p90_resolution_days,7.757916666666675
+Category 42,closure_eligible,3578
+Category 42,median_closure_days,5.0465277777777775
+Category 42,p90_closure_days,14.972500000000002
+Category 42,paired_eligible,3159
+Category 42,paired_median_resolution_days,0.029166666666666667
+Category 42,paired_median_closure_days,5.058333333333334
+Category 42,median_post_resolution_days,5.021527777777778
+Category 42,p90_post_resolution_days,5.040972222222222
+Category 42,known_reassignments,3578
+Category 42,reassignment_coverage,1
+Category 42,reassigned_cases,1261
+Category 42,reassigned_rate,0.3524315259921744
+Category 42,reopened_cases,33
+Category 42,slow_cases,159
+Category 42,slow_rate,0.050332383665717
+Category 42,slow_threshold_days,15.608611111111117
+Category 42,missing_resolution_count,419
+Category 42,missing_resolution_median_closure_days,5.030555555555556
+Category 42,present_resolution_median_closure_days,5.058333333333334
+Category 42,latest_closure_serial,42781.625
